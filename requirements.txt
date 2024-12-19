@@ -1,0 +1,19 @@
+# FastAPI framework and server
+fastapi==0.109.2
+uvicorn==0.27.1
+
+# HTTP client for API calls
+httpx==0.26.0
+
+# Environment and settings management
+python-dotenv==1.0.0
+pydantic==2.6.1
+pydantic-settings==2.1.0
+
+# Logging and utilities
+python-json-logger==2.0.7
+
+# Testing
+pytest==8.0.0
+pytest-asyncio==0.23.5
+pytest-cov==4.1.0
